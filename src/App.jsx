@@ -1,13 +1,13 @@
 import './App.css'
-import { Githubdata } from './UseEffect/Github'
-
+import { Fetchdata } from './UseEffect/Data'
+import { Timer } from './UseEffect/Timer'
 
 
 
 function App() {
 return (
    <div>
-   <Githubdata/>
+    <Timer/>
    </div>
   )
 }
