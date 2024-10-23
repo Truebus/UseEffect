@@ -1,13 +1,13 @@
 import './App.css'
-import { Fetchdata } from './UseEffect/Data'
-import { Timer } from './UseEffect/Timer'
+import  Form1  from './UseEffect/Form1'
+import { Windowwidth } from './UseEffect/Window'
 
 
 
 function App() {
 return (
    <div>
-    <Timer/>
+   <Form1/>
    </div>
   )
 }
