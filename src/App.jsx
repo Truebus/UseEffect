@@ -1,13 +1,11 @@
 import './App.css'
-import  Form1  from './UseEffect/Form1'
-import { Windowwidth } from './UseEffect/Window'
-
+import { Fetched } from './UseEffect/Fetching'
 
 
 function App() {
 return (
    <div>
-   <Form1/>
+   <Fetched/>
    </div>
   )
 }
