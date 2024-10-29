@@ -1,15 +1,12 @@
 import './App.css'
-import { DataClear } from './UseEffect/DataClear'
-import { Debounced } from './UseEffect/DeBouncedInput'
-import { DependencyChange } from './UseEffect/DependencyChange'
-import { Scroll } from './UseEffect/Scroll'
+import { FetchData } from './UseEffect/Fetch'
 
 
 
 function App() {
 return (
    <div>
-   <Scroll/>
+   <FetchData/>
    </div>
   )
 }
