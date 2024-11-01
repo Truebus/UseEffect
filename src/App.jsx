@@ -1,7 +1,6 @@
 import './App.css'
 import { FetchData } from './UseEffect/Fetch'
 import { MultiCall } from './UseEffect/MultiCall'
-import { Timer2 } from './UseEffect/Timer2'
 
 
 
